@@ -78,9 +78,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Angeloth1&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Angeloth1)  
-
-![GitHub metrics](https://metrics.lecoq.io/Angeloth1)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Angeloth1)  
 
