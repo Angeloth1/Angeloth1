@@ -14,7 +14,7 @@
 ### 🚀 Current Focus & Highlights
 - 🔭 **Building:** A cross-platform enterprise-grade fitness application using **React Native**, **Java/Spring Boot**, and **PostgreSQL/Supabase** with strict RLS policies.
 - 🔬 **Researching:** Quantum Computing Applications in MCDM Systems for my Bachelor's Thesis, utilizing **Python**.
-- 🤝 **Open Source:** Actively contributing to **IBM Qiskit** ([Active PR](https://github.com/Qiskit/qiskit/pull/15737)), currently focusing on quantum algorithm optimization.
+- 🤝 **Open Source:** Actively contributing to major open-source Python ecosystems. Currently focusing on quantum algorithm optimization for **IBM Qiskit** ([PR #15737](https://github.com/Qiskit/qiskit/pull/15737)) and telemetry data visualization for **Fast-F1** ([PR #902](https://github.com/theOehrly/Fast-F1/pull/902)).
 - ☁️ **Roadmap:** Working towards the **AWS Cloud Practitioner & Developer** certifications to solidify my cloud architecture skills.
 - 🎤 **Community & Leadership:** As an active member of the IEEE Ionian SB, I contributed to organizing the [Ionian Wikithon 2022](https://ionio.gr/gr/news/23978/) featuring Wikipedia pioneer Magnus Manske.
   
