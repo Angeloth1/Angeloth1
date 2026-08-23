@@ -1,73 +1,54 @@
-<div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" alt="Greetings Header" />
-</div>
+# Hi, I'm Angelos 👋
 
-### <div align="center"> Hi, I'm **Angelos Thomos**</div>  
-### <div align="center">Junior Software Engineer | Backend & Quantum Algorithms | B.Sc. IT @ Ionian University </div>
+**CS Graduate | Quantum Algorithms | Software Engineer**
 
-<div align="center">
-  Driven Software Engineering undergraduate specializing in backend architecture, algorithmic optimization, and cloud technologies. Combining rigorous academic research in Quantum Decision Support Systems with practical enterprise-level full-stack development.
-</div>
+Driven Software Engineer specializing in Quantum architecture, algorithmic optimization, and data-driven systems. I combine rigorous academic research in Quantum Decision Support Systems with practical enterprise-level full-stack development, primarily building and deploying within Arch and Debian Linux environments.
 
 ---
 
 ### 🚀 Current Focus & Highlights
-- 🔭 **Building:** A cross-platform enterprise-grade fitness application using **React Native**, **Java/Spring Boot**, and **PostgreSQL/Supabase** with strict RLS policies.
-- 🔬 **Researching:** Quantum Computing Applications in MCDM Systems for my Bachelor's Thesis, utilizing **Python**.
-- 🤝 **Open Source:** Official contributor to **Fast-F1** (telemetry data visualization — [Merged PR #902](https://github.com/theOehrly/Fast-F1/pull/902)). Actively contributing to quantum algorithm optimization for **IBM Qiskit** ([PR #15737](https://github.com/Qiskit/qiskit/pull/15737)).
-- ☁️ **Roadmap:** Working towards the **AWS Cloud Practitioner & Developer** certifications to solidify my cloud architecture skills.
-- 🎤 **Community & Leadership:** As an active member of the IEEE Ionian SB, I contributed to organizing the [Ionian Wikithon 2022](https://ionio.gr/gr/news/23978/) featuring Wikipedia pioneer Magnus Manske.
-  
+
+*   **Architecting:** A cross-platform enterprise fitness app using **React Native**, **Java/Spring Boot**, and **PostgreSQL/Supabase** with strict RLS policies.
+*   **Engineering:** `q-cli`, an educational command-line tool designed to assist university students with core programming and system concepts.
+*   **Researching:** Published *[Evaluation of Variational Quantum Classifiers (VQC) for Cyberattack Detection in the NISQ Era](https://www.mdpi.com/2224-2708/15/4/67)*. 
+*   **Contributing:** Official contributor to **Fast-F1** (telemetry data visualization — [PR #902](https://github.com/theOehrly/Fast-F1/pull/902)) and **IBM Qiskit** quantum algorithm optimization ([PR #15737](https://github.com/Qiskit/qiskit/pull/15737)).
+*   **Investigating:** Post-Quantum Cryptography and advanced Quantum Machine Learning (QML) applications.
+
+---
+
 ### 🧠 Core Tech Stack
 
-<div align="center">
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**Languages & Core** <br>
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="50"/></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="50"/></a>
-<a href="https://cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50"/></a>
+**Quantum & Scientific**  
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-**Frameworks & Mobile** <br>
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" height="50"/></a>
-<a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" height="50"/></a>
-<a href="https://qiskit.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/1200px-Qiskit-Logo.svg.png" alt="IBM Qiskit" height="50"/></a>
-
-**Infrastructure, Cloud & Data** <br>
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50"/></a>
-<a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="Supabase" height="50"/></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50"/></a>
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50"/></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="50"/></a>
-</div>
+**Frameworks & Infrastructure**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angeloth1&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angeloth1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Angeloth1&theme=tokyonight&hide_border=true&background=0D1117)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Angeloth1&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
-
+![Profile Views](https://komarev.com/ghpvc/?username=Angeloth1&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 ---
 
 ### 🌍 Let's Connect
 
-<div align="center">
-  <a href="mailto:thomosangelos@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/athomos/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomosangelos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athomos/)
 
-<br/>
+> *"Change is not the goal — it’s the challenge that builds you."*
 
-> _"Change is not the goal — it’s the challenge that builds you."_
