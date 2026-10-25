@@ -1,5 +1,3 @@
-Claude
-Readme · MD
 # Hi, I'm Angelos 👋
  
 **Software Engineer · Quantum Computing × Security**
